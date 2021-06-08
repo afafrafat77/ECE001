@@ -1,0 +1,119 @@
+
+.navbar
+{
+    background-color: #999999;
+    opacity: 0.7;
+    height:50px;
+    width: 1520px;
+
+}
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: scroll;
+    overflow: hidden ;
+}
+li
+{
+    float: left;
+    position:relative;
+    left:0px;
+    width:220px;
+}
+li a
+{
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-size: 19px;
+}
+li a:hover {
+    background-color: rgb(241, 237, 252);
+  }
+.a1:hover
+{
+  background-color: #f17a7e;
+
+}
+.a2:hover
+{
+  background-color: #ffc94b;
+}
+.a3:hover
+{
+  background-color: #f9a66c;
+}
+.a4:hover
+{
+  background-color: #4a6163;
+}
+#search-text-input{
+    border-top:thin solid  #e5e5e5;
+    border-right:thin solid #e5e5e5;
+    border-bottom:0;
+    border-left:thin solid  #e5e5e5;
+    box-shadow:0px 1px 1px 1px #e5e5e5;
+    float:right;
+    height:17px;
+    margin:.8em 0 0 .5em;
+    outline:0;
+    padding:.4em 0 .4em .6em;
+    width:170px;
+
+}
+h1{
+  color: #4a6163;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+.python{
+  position:relative;
+  left:900px;
+  bottom:90px;
+  width:350px;
+  height:170px;
+}
+.a{
+  position:relative;
+  bottom:183px;
+}
+.b{
+  position:relative;
+  bottom:183px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+.c{
+  position:relative;
+  bottom:183px;
+  left:300px;
+}
+.d{
+  position:relative;
+  bottom:570px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+
+}
+.f{
+  position:relative;
+  bottom:183px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 28px;
+  color: #4a6163;
+}
+.js{
+  position:relative;
+  width:200px;
+  bottom:160px;
+  left:1100px;
+
+}
